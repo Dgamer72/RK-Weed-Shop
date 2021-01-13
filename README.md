@@ -1,4 +1,4 @@
-# Shop Addons 
+# Weed Shop 
 Module for the game LifePlay
 https://github.com/vinfamy/LifePlay
 
