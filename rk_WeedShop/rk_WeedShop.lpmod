@@ -1,0 +1,7 @@
+MODULE_UNIQUEID: rk_WeedShop
+MODULE_NAME: Weed Add-On Module
+MODULE_AUTHOR: Raddeck
+MODULE_LINK: https://github.com/RaiderKnight/
+MODULE_DESCRIPTION: You can buy and smoke weed at different places!
+MODULE_REQUIREMENTS:
+MODULE_VERSION: 0.1
