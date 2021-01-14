@@ -13,7 +13,7 @@ OTHER: none
         Player(Anxious)::"After searching everywhere... I don't have enough weed to roll a joint ! Oh well !"
     Else
         
-        // Get current sextoy types
+        // Get current strain types
         AK47Weed = Player.getActorVar(rk_AK47Weed)
         SSWeed = Player.getActorVar(rk_SSWeed)
         WWWeed = Player.getActorVar(rk_WWWeed)
