@@ -4,11 +4,13 @@ https://github.com/vinfamy/LifePlay
 
 
 ### 1- rk_WeedShop  : 
-Add options to buy/smoke weed at different places around the city.
+Add options to buy/smoke weed at different places around the city.  
+8 flavours to choose.  
+Contain 2 scenes.  
 
 
 ### Module requirements
-None
+At least LifePlay 3.18
 
 
 ### Module conflict
@@ -24,7 +26,7 @@ c:\..\LifePlay\Content\Modules\rk_WeedShop
 
 NOT
 
-c:\..\LifePlay\Content\Modules\rk_WeedShop\rk_WeedShop
+c:\..\LifePlay\Content\Modules\RK-Weed-Shop\rk_WeedShop
 
 After the mod have been installed, make sure the mod is active in the Mod Manager. 
 
