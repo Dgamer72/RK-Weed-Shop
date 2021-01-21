@@ -60,11 +60,11 @@
 <br>
 <hr>
 <br>
-<blockquote> I'm a freelance coder, who love playing with codes.<br>
-I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with the LifePlay team, or any of its subsidiaries or its affiliates.<br>
-All images, icons, animations, code snippets are from LifePlay.</blockquote>
+<h3>Contributors</h3>
+NickNo
 <br>
 <hr>
 <br>
-<h3>Contributors</h3>
-NickNo
+<blockquote> I'm a freelance coder, who love playing with codes.<br>
+I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with the LifePlay team, or any of its subsidiaries or its affiliates.<br>
+All images, icons, animations, code snippets are from LifePlay.</blockquote>
