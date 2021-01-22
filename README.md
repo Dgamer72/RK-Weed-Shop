@@ -61,7 +61,7 @@
 <hr>
 <br>
 <h3>Contributors</h3>
-NickNo
+NickNo<br>
 <br>
 <hr>
 <br>
