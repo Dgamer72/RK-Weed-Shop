@@ -2,15 +2,17 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_WeedShop  version(1.0):</h3> 
+<h3>rk_WeedShop :</h3> 
 <p>Add options to buy/smoke weed at different places around the city.</p> 
 <p>8 flavours to choose.</p> 
 <p>Contain 3 scenes.</p>
+<p>Contain 1 scenes locked until you get black market skills.</p>
 <br>
 <hr>
 <br>
 <h3>Module requirements</h3>
 <p>At least LifePlay 3.18</p>
+<p>Optional: nn_GangsOfLifePlay : to sell weed</p>
 <br>
 <h3>Module conflict</h3>
 <p>rk_ShopAddons : You need to uninstall this mod (same content...)</p>
