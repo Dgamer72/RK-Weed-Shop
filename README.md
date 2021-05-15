@@ -3,18 +3,21 @@
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
 <h3>rk_WeedShop :</h3>
-<p>Version: 1.0.1</p>
+<p>Version: 1.0.2</p>
 <br>
 <p>Add options to buy/smoke weed at different places around the city.</p> 
 <p>8 flavours to choose.</p> 
-<p>Contain 3 scenes.</p>
+<p>Contain 2 scenes.</p>
 <p>Contain 1 scenes locked until you get black market skills.</p>
 <br>
 <hr>
 <br>
 <h3>Module requirements</h3>
-<p>At least LifePlay 3.18</p>
+<p>At least the game LifePlay 3.21</p>
+<p><a href="https://github.com/RaiderKnight/RK-Personal-Inventories" tilte="Personal Inventories Mod">rk_Personal_Inventories</a></p>
 <p>Optional: nn_GangsOfLifePlay : to sell weed</p>
+<br>
+<hr>
 <br>
 <h3>Module conflict</h3>
 <p>rk_ShopAddons : You need to uninstall this mod (same content...)</p>
@@ -28,19 +31,6 @@
 <p><strong>NOT</strong></p>
 <p>c:\..\LifePlay\Content\Modules\RK-Weed-Shop\rk_WeedShop</p>
 <p>After the mod have been installed, make sure the mod is active in the Mod Manager.</p>
-<br>
-<br>
-<p><strong>IMPORTANT NOTICE</strong></p>
-<p>If you have already installed one of the RK-XXXX-Shop mini-shops, make sure to delete the following files:</p>
-<p>check_pockets.lpscene</p>
-<p>check_pockets.lpaction</p>
-<br>
-<p>Only one mod with these files is needed.</p>
-<p>So the first RK-XXXX-Shop mod, which you installed should contain these files.</p>
-<p>The following mods (RK-XXXX-Shop) that you will install, you will have to delete the files mentioned above.</p>
-<br>
-<p><strong>Mods using these same files:</strong></p>
-<p>rk_CigarsShop - rk_ConfectioneryShop - rk_VapeShop - rk_WeedShop</p>
 <br>
 <hr>
 <br>
@@ -65,7 +55,6 @@
 <hr>
 <br>
 <h3>Contributors</h3>
-NickNo<br>
 <br>
 <hr>
 <br>
